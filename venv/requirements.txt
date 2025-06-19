@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+python-dotenv
+psycopg2-binary
+streamlit
+requests
